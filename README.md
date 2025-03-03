@@ -1,7 +1,6 @@
 Introduction:
 
 Atliq Grands operates multiple five-star hotels across India and has been a key player in the hospitality industry for over 20 years. However, due to aggressive strategies from competitors and ineffective decision-making, Atliq Grands has experienced a decline in its market share and revenue within the luxury and business hotel sectors. As part of a strategic move to regain their position, the Managing Director has decided to incorporate “Business and Data Intelligence” to drive business growth. 
-To address this gap, a brief data analysis is required to identify the key drawbacks and areas of improvement.
 ________________________________________
 Objective 🎯
 
