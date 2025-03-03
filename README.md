@@ -19,8 +19,10 @@ o	Cancellation Rate
 ________________________________________
 Technology 💻
 Business Intelligence tools such as Microsoft Power BI will be used to visualize and analyze the data.
+
 Domain 🛒
 Hospitality Industry
+
 Tools 🛠
 Microsoft Power BI
 ________________________________________
