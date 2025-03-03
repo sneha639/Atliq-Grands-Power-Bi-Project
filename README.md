@@ -18,12 +18,15 @@ o	Cancellation Rate
 3.	Provide additional insights that are not covered in the mock-up dashboard or metric list but could provide valuable guidance to improve business decisions.
 ________________________________________
 Technology 💻
+
 Business Intelligence tools such as Microsoft Power BI will be used to visualize and analyze the data.
 
 Domain 🛒
+
 Hospitality Industry
 
 Tools 🛠
+
 Microsoft Power BI
 ________________________________________
 Glimpse of the Dashboard 🎥
