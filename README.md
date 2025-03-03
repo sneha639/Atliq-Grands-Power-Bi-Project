@@ -36,6 +36,7 @@ Glimpse of the Dashboard 🎥
 ![image](https://github.com/user-attachments/assets/16be5bab-0cb1-45f9-a074-eaf8b8ca8731)
 ________________________________________
 Conclusion 💡
+
 Based on the analysis of the data, several recommendations are made to improve revenue and occupancy rates:
 
 •	Revenue Growth: A 29% increase in revenue is possible by leveraging strategies such as encouraging late bookings and extending the duration of guest stays.
