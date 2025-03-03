@@ -38,8 +38,11 @@ Based on the analysis of the data, several recommendations are made to improve r
 •	Booking Platforms: The "Others" and "MakeMyTrip" platforms are the primary sources of bookings, suggesting a focus on strengthening relationships with these platforms.
 
 •	Average Rating: The average customer rating is between 3.6 and 3.65, suggesting a moderate level of satisfaction and room for improvement in guest experiences.
-•	Regional Insights:
+
+Regional Insights:
 o	Delhi shows high average ratings, which could be leveraged for promoting the hotel's reputation in the region.
+
 o	Mumbai and Hyderabad experience a significant drop in occupancy during June, indicating potential seasonality effects that need to be addressed with targeted marketing strategies.
+
 These insights aim to provide a strategic direction for Atliq Grands to recover its market share and drive revenue growth in the highly competitive luxury and business hotel sector.
 
