@@ -30,9 +30,13 @@ Glimpse of the Dashboard 🎥
 ________________________________________
 Conclusion 💡
 Based on the analysis of the data, several recommendations are made to improve revenue and occupancy rates:
+
 •	Revenue Growth: A 29% increase in revenue is possible by leveraging strategies such as encouraging late bookings and extending the duration of guest stays.
+
 •	Occupancy Trends: Occupancy is highest on weekends, indicating potential for targeted promotions during weekdays to boost occupancy.
+
 •	Booking Platforms: The "Others" and "MakeMyTrip" platforms are the primary sources of bookings, suggesting a focus on strengthening relationships with these platforms.
+
 •	Average Rating: The average customer rating is between 3.6 and 3.65, suggesting a moderate level of satisfaction and room for improvement in guest experiences.
 •	Regional Insights:
 o	Delhi shows high average ratings, which could be leveraged for promoting the hotel's reputation in the region.
